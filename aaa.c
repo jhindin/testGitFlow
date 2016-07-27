@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("This prgram has been compiled from aaa.c\n");
+	printf("This program has been compiled from aaa.c\n");
 }
 
